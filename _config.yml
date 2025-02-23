@@ -1,0 +1,37 @@
+title: "Daniela Betancurt-Anzola"
+description: "Microbiome Researcher | Environmental Microbiomes | Bioinformatics"
+baseurl: "" # Leave empty 
+url: "https://danibeta07.github.io" # Replace with your actual GitHub Pages URL
+
+# Author Information
+author:
+  name: "Daniela Betancurt-Anzola"
+  email: "danibeta07@gmail.com"
+  github: "danibeta07"
+  linkedin: "Daniela Betancurt Anzola"
+
+# Site Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Contact"
+    url: "/contact"
+
+# Theme and Appearance
+theme: jekyll-theme-minimal  # You can change this theme based on preference
+
+# Additional Settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social Links
+social:
+  twitter: "danielabetan"
+  scholar: "Daniela Betancurt-Anzola"
