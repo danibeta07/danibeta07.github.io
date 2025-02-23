@@ -35,3 +35,5 @@ plugins:
 social:
   twitter: "danielabetan"
   scholar: "Daniela Betancurt-Anzola"
+
+<img src="{{ site.baseurl }}/assets/img/profile.jpg" alt="Daniela Betancurt-Anzola" style="border-radius:50%; width:200px;">
