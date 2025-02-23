@@ -1,212 +1,234 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
+# # -----------------------------------------------------------------------------
+# # Site settings
+# # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Daniela
-last_name: Betancurt-Anzola
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+# title: blank # the website title (if blank, full name will be used instead)
+# first_name: Daniela
+# last_name: Betancurt-Anzola
+# contact_note: >
+#   You can even add a little note about which of these is the best way to reach you.
+# description: > # the ">" symbol means to ignore newlines until "footer_text:"
+#   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+# footer_text: >
+#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   
-keywords: "Microbiome Researcher | Environmental Microbiomes | Bioinformatics"
-lang: en
-icon: "/assets/img/profile.jpg"
+# keywords: "Microbiome Researcher | Environmental Microbiomes | Bioinformatics"
+# lang: en
+# icon: "/assets/img/profile.jpg"
 
+# url: https://danibeta07.github.io # the base hostname & protocol for your site
+# baseurl: 
+# last_updated: true # set to true if you want to display last updated in the footer
+# impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+# back_to_top: true # set to false to disable the back to top button
+
+# # -----------------------------------------------------------------------------
+# # Theme
+# # -----------------------------------------------------------------------------
+
+# # repo color theme
+# repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo_trophies:
+#   enabled: true
+#   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+#   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+
+# # -----------------------------------------------------------------------------
+# # RSS Feed
+# # -----------------------------------------------------------------------------
+# # will use title and url fields
+# # Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+# rss_icon: true
+
+# # -----------------------------------------------------------------------------
+# # Layout
+# # -----------------------------------------------------------------------------
+
+# navbar_fixed: true
+# footer_fixed: true
+# search_enabled: true
+# socials_in_search: true
+# bib_search: true
+
+# # Dimensions
+# max_width: 930px
+
+# # TODO: add layout settings (single page vs. multi-page)
+
+# # -----------------------------------------------------------------------------
+# # Open Graph & Schema.org
+# # -----------------------------------------------------------------------------
+# # Display links to the page with a preview object on social media.
+# # see https://schema.org/docs/faq.html for more information
+# serve_og_meta: false # Include Open Graph meta tags in the HTML head
+# serve_schema_org: false # Include Schema.org in the HTML head
+# og_image: # The site-wide (default for all links) Open Graph preview image
+
+# # -----------------------------------------------------------------------------
+# # Jekyll settings
+# # -----------------------------------------------------------------------------
+
+# # Markdown and syntax highlight
+# markdown: kramdown
+# highlighter: rouge
+# kramdown:
+#   input: GFM
+#   syntax_highlighter_opts:
+#     css_class: "highlight"
+#     span:
+#       line_numbers: false
+#     block:
+#       line_numbers: false
+#       start_line: 1
+
+# # Includes & excludes
+# include: ["_pages", "_scripts"]
+# exclude:
+#   - bin/
+#   - CONTRIBUTING.md
+#   - CUSTOMIZE.md
+#   - Dockerfile
+#   - docker-compose.yml
+#   - docker-compose-slim.yml
+#   - FAQ.md
+#   - Gemfile
+#   - Gemfile.lock
+#   - INSTALL.md
+#   - LICENSE
+#   - lighthouse_results/
+#   - package.json
+#   - package-lock.json
+#   - _pages/about_einstein.md
+#   - purgecss.config.js
+#   - README.md
+#   - readme_preview/
+#   - vendor
+# keep_files:
+#   - CNAME
+#   - .nojekyll
+
+# # Plug-ins
+# plugins:
+#   - jekyll-archives
+#   - jekyll-email-protect
+#   - jekyll-feed
+#   - jekyll-get-json
+#   - jekyll-imagemagick
+#   - jekyll-jupyter-notebook
+#   - jekyll-link-attributes
+#   - jekyll-minifier
+#   - jekyll-paginate-v2
+#   - jekyll-regex-replace
+#   - jekyll/scholar
+#   - jekyll-sitemap
+#   - jekyll-tabs
+#   - jekyll-terser
+#   - jekyll-toc
+#   - jekyll-twitter-plugin
+#   - jemoji
+
+# # Sitemap settings
+# defaults:
+#   - scope:
+#       path: "assets"
+#     values:
+#       sitemap: false
+
+# sass:
+#   style: compressed
+# # -----------------------------------------------------------------------------
+# # Jekyll Scholar
+# # -----------------------------------------------------------------------------
+
+# scholar:
+#   last_name: [Betancurt-Anzola]
+#   first_name: [Daniela]
+
+#   style: apa
+#   locale: en
+
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
+#   # Note: if you have latex math in your bibtex, the latex filter
+#   # preprocessing may conflict with MathJAX if the latter is enabled.
+#   # See https://github.com/alshedivat/al-folio/issues/357.
+#   bibtex_filters: [latex, smallcaps, superscript]
+
+#   replace_strings: true
+#   join_strings: true
+
+#   details_dir: bibliography
+#   details_link: Details
+
+#   query: "@*"
+#   group_by: year
+#   group_order: descending
+
+# # Display different badges withs stats for your publications
+# # Customize badge behavior in _layouts/bib.liquid
+# enable_publication_badges:
+#   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+#   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+#   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+#   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
+
+# # Filter out certain bibtex entry keywords used internally from the bib output
+# filtered_bibtex_keywords:
+#   [
+#     abbr,
+#     abstract,
+#     additional_info,
+#     altmetric,
+#     annotation,
+#     arxiv,
+#     award,
+#     award_name,
+#     bibtex_show,
+#     blog,
+#     code,
+#     google_scholar_id,
+#     html,
+#     inspirehep_id,
+#     pdf,
+#     poster,
+#     preview,
+#     selected,
+#     slides,
+#     supp,
+#     video,
+#     website,
+#   ]
+
+# # Maximum number of authors to be shown for each publication (more authors are visible on click)
+# max_author_limit: 3 # leave blank to always show all authors
+# more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
+
+# # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
+# enable_publication_thumbnails: true
+
+
+title: "Your Name"
+email: "your.email@example.com"
+description: "Microbiome Researcher | Environmental Microbiomes | Bioinformatics"
 url: https://danibeta07.github.io # the base hostname & protocol for your site
 baseurl: 
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
 
-# -----------------------------------------------------------------------------
-# Theme
-# -----------------------------------------------------------------------------
+# Navigation
+header_pages:
+  - index.md
+  - research.md
+  - projects.md
+  - publications.md
+  - contact.md
 
-# repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
-
-# -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: true
-
-# -----------------------------------------------------------------------------
-# Layout
-# -----------------------------------------------------------------------------
-
-navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
-
-# Dimensions
-max_width: 930px
-
-# TODO: add layout settings (single page vs. multi-page)
-
-# -----------------------------------------------------------------------------
-# Open Graph & Schema.org
-# -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
-# see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
-
-# -----------------------------------------------------------------------------
-# Jekyll settings
-# -----------------------------------------------------------------------------
-
-# Markdown and syntax highlight
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    css_class: "highlight"
-    span:
-      line_numbers: false
-    block:
-      line_numbers: false
-      start_line: 1
-
-# Includes & excludes
-include: ["_pages", "_scripts"]
-exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
-  - Gemfile
-  - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
-  - vendor
-keep_files:
-  - CNAME
-  - .nojekyll
-
-# Plug-ins
+# Custom Domain
+remote_theme: alshedivat/al-folio
 plugins:
-  - jekyll-archives
-  - jekyll-email-protect
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-tabs
-  - jekyll-terser
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
-
-# Sitemap settings
-defaults:
-  - scope:
-      path: "assets"
-    values:
-      sitemap: false
-
-sass:
-  style: compressed
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-scholar:
-  last_name: [Betancurt-Anzola]
-  first_name: [Daniela]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-# Display different badges withs stats for your publications
-# Customize badge behavior in _layouts/bib.liquid
-enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
-  inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
-
-# Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [
-    abbr,
-    abstract,
-    additional_info,
-    altmetric,
-    annotation,
-    arxiv,
-    award,
-    award_name,
-    bibtex_show,
-    blog,
-    code,
-    google_scholar_id,
-    html,
-    inspirehep_id,
-    pdf,
-    poster,
-    preview,
-    selected,
-    slides,
-    supp,
-    video,
-    website,
-  ]
-
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3 # leave blank to always show all authors
-more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
-
-# Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+  - jekyll-seo-tag
