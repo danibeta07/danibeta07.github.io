@@ -232,3 +232,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+avatar: "/assets/img/profile.jpg"
