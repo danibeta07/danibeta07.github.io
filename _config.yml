@@ -1,8 +1,8 @@
 title: "Your Name"
 email: "your.email@example.com"
 description: "Microbiome Researcher | Environmental Microbiomes | Bioinformatics"
-url: https://danibeta07.github.io # the base hostname & protocol for your site
-baseurl: 
+url: "https://danibeta07.github.io" # the base hostname & protocol for your site
+baseurl: ""
 
 # Navigation
 header_pages:
@@ -19,4 +19,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-avatar: "/assets/img/profile.jpg"
+author:
+  name: "Daniela Betancurt-Anzola"
+  avatar: "/assets/img/profile.jpg"
