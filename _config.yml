@@ -9,28 +9,31 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Daniela Betancurt-Anzola, MSc"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Daniela Betancurt-Anzola"
+description              : &description "Microbial ecologist studying microbial communities, their interactions, and their roles in environmental and host-associated systems."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://danibeta07.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "danibeta07/danibeta07.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : ""
+  name             : "Daniela Betancurt-Anzola"
+  pronouns         : "she/her"
+  bio              : "Ph.D. candidate studying microbial ecology and microbiomes."
+  location         : "State College, Pennsylvania"
+  employer         : "Penn State University"
+  uri              : "https://danibeta07.github.io"
+  email            : "dkb5890@psu.edu"
+  googlescholar    : "Daniela Betancurt-Anzola"
+  orcid            : "https://orcid.org/0000-0001-9160-8190"
+  github           : "danibeta07"
+  linkedin         : "daniela-betancurt-anzola-402361b4"
 
   # Academic websites
   academia         : # URL
