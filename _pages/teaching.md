@@ -38,7 +38,7 @@ I supported instruction during the KickStart Microbiome Workshop in 2023.
 
 ## Outreach and scientific community
 
-- **NMDC Champion | 2025**
-- **NMDC Ambassador | 2024**
-- **ASM Future Leaders in Microbiology Fellowship | 2023**
-- **Microbiome Outreach Instructor | 2022** — State College Area High School ESOL Program.
+- **NMDC Champion** (2025)
+- **NMDC Ambassador** (2024)
+- **ASM Future Leaders in Microbiology Fellowship** (2023)
+- **Microbiome Outreach Instructor** (2022) — State College Area High School ESOL Program.
