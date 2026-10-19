@@ -74,11 +74,11 @@ I have mentored undergraduate researchers at Penn State and Cornell University, 
 
 ## Leadership and service
 
-- Organizing Committee Member, One Health Microbiome Center Symposium, Penn State | 2025–2026
-- Workshop Chair, Data Analysis Working Group, One Health Microbiome Center, Penn State | 2024–2026
-- National Microbiome Data Collaborative Champion | 2025
-- National Microbiome Data Collaborative Ambassador | 2024
-- First-Year Representative, BMMB Graduate Student Association, Penn State | 2023
+- Organizing Committee Member, One Health Microbiome Center Symposium, Penn State - 2025–2026
+- Workshop Chair, Data Analysis Working Group, One Health Microbiome Center, Penn State - 2024–2026
+- National Microbiome Data Collaborative Champion - 2025
+- National Microbiome Data Collaborative Ambassador - 2024
+- First-Year Representative, BMMB Graduate Student Association, Penn State - 2023
 
 ## Research skills
 
