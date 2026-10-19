@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Daniela Betancurt-Anzola"
 author_profile: true
 redirect_from:
   - /about/
