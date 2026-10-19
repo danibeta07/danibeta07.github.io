@@ -21,7 +21,7 @@ My involvement spans field sampling in Colombia, DNA and metabolite extraction, 
 
 Previously, I worked on developing a probiotic strategy to reduce dietary mercury bioavailability in the gut.
 
-I designed constructs, cloning strategies, and screening assays, and programmed Opentrons liquid-handling robots to screen approximately bacterial strains across mercury concentrations. I also contributed to mouse-study design, toxicity and dosing experiments, sample collection, and data analysis. Preliminary findings helped guide the selection of strains, microbial communities, and mercury concentrations for subsequent experiments.
+I designed constructs, cloning strategies, and screening assays, and programmed Opentrons liquid-handling robots to screen approximately bacterial strains across a range of mercury concentrations. I also contributed to mouse-study design, toxicity and dosing experiments, sample collection, and data analysis. Preliminary findings helped guide the selection of strains, microbial communities, and mercury concentrations for subsequent experiments.
 
 ## Questions I want to pursue next
 
