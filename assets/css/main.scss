@@ -36,3 +36,55 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+/* Daniela's personal color palette */
+
+/* Light mode */
+:root {
+  --global-base-color: #2F6250;
+  --global-bg-color: #FAF9F6;
+  --global-footer-bg-color: #EDEFE8;
+
+  --global-text-color: #26332D;
+  --global-text-color-light: #58665E;
+  --global-fig-caption-color: #58665E;
+
+  --global-link-color: #2F6250;
+  --global-link-color-hover: #1E4637;
+  --global-link-color-visited: #4A6250;
+
+  --global-masthead-link-color: #26332D;
+  --global-masthead-link-color-hover: #2F6250;
+
+  --global-border-color: #D8DFD5;
+  --global-dark-border-color: #AAB8AC;
+  --global-thead-color: #E9EFE7;
+
+  --global-code-background-color: #EFF2EC;
+  --global-code-text-color: #26332D;
+}
+
+/* Dark mode */
+html[data-theme="dark"] {
+  --global-base-color: #396E55;
+  --global-bg-color: #18221D;
+  --global-footer-bg-color: #111A15;
+
+  --global-text-color: #E8EEE9;
+  --global-text-color-light: #B4C3B8;
+  --global-fig-caption-color: #B4C3B8;
+
+  --global-link-color: #A6D5BA;
+  --global-link-color-hover: #D1E8D9;
+  --global-link-color-visited: #B8CDA9;
+
+  --global-masthead-link-color: #E8EEE9;
+  --global-masthead-link-color-hover: #A6D5BA;
+
+  --global-border-color: #3C5043;
+  --global-dark-border-color: #52695A;
+  --global-thead-color: #2B3D32;
+
+  --global-code-background-color: #223128;
+  --global-code-text-color: #E8EEE9;
+}
