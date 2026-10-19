@@ -14,7 +14,7 @@ In my current lab, I train researchers to use the metagenomic analysis pipeline 
 ## Workshops and research training
 
 ### Microbiome data analysis
-**Workshop Chair, Data Analysis Working Group, One Health Microbiome Center (OHMC), Penn State | 2024–2026**
+**Workshop Chair, Data Analysis Working Group, One Health Microbiome Center (OHMC), Penn State  2024–2026**
 
 I coordinated a workshop program offering four workshops per semester over two years for the OHMC community.
 
