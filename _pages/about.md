@@ -17,8 +17,6 @@ Previously, I worked on a probiotic strategy to reduce dietary mercury bioavaila
 
 I hold an M.Sc. in Computational Biology and bachelor’s degrees in Biology and Microbiology from Universidad de los Andes. Alongside research, I enjoy mentoring students and teaching workshops on microbiome data analysis.
 
-## Looking ahead
-
 I expect to complete my Ph.D. in summer 2027 and am seeking postdoctoral opportunities in microbial ecology. I am particularly interested in how microorganisms exchange metabolites and genetic material, organize into communities, and evolve together. I hope to combine experimental approaches and computational analysis to understand how these interactions give rise to community functions.
 
 To discuss research or postdoctoral opportunities, please [get in touch](mailto:dkb5890@psu.edu).
