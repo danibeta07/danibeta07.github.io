@@ -22,7 +22,7 @@ repository               : "danibeta07/danibeta07.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : ""
+  avatar           : "daniela-profile.jpg"
   name             : "Daniela Betancurt-Anzola"
   pronouns         : "she/her"
   bio              : "Ph.D. candidate studying microbial ecology and microbiomes."
