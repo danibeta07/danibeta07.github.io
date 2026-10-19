@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a microbial ecologist and Ph.D. candidate in Biochemistry, Microbiology and Molecular Biology at Penn State, working with Dr. Estelle Couradeau. I study microbial communities and the processes that connect their diversity to their functions, combining computational analysis with field and laboratory experiments.
+I am a microbial ecologist and Ph.D. candidate in Biochemistry, Microbiology and Molecular Biology at Penn State, working with Dr. Estelle Couradeau. My research integrates computational and experimental approaches to understand microbial diversity, interactions, and ecosystem functions.
 
-Originally from Bogotá, Colombia, I now study the soil microbiomes of Chingaza, a neotropical high-elevation wetland in the Colombian Andes. These ecosystems, known as páramos, store carbon and supply water to millions of people, yet much of their microbial diversity remains unexplored. My research investigates the microorganisms living in these soils, their associations with endemic plants, and their potential roles in carbon cycling.
+Originally from Bogotá, Colombia, I study soil microbiomes in the páramos of the Colombian Andes, high-elevation ecosystems critical for carbon storage and water regulation. My research focuses on microbial communities, their associations with endemic plants, and their roles in carbon cycling. I lead a multi-omics project combining genome-resolved metagenomics, metabolomics, greenhouse gas measurements, and soil biogeochemistry, integrating fieldwork, laboratory experiments, and high-performance computing.
 
-I am leading a multi-omics project that brings together genome-resolved metagenomics, untargeted metabolomics, gas-flux measurements, and soil biogeochemistry. My work spans field sampling and laboratory processing through computational analysis and interpretation. I also develop HPC workflows to recover microbial genomes and investigate the metabolic potential of uncultivated lineages.
+Previously, I investigated probiotic strategies to reduce mercury bioavailability in the gut, using molecular biology, bacterial screening, and animal models. I also conducted microbiome research at Universidad de Los Andes and Cornell University. I hold an M.Sc. in Computational Biology and bachelor's degrees in Biology and Microbiology from Universidad de los Andes. Beyond research, I enjoy mentoring students and teaching microbiome data analysis.
 
-Previously, I worked on a probiotic strategy to reduce dietary mercury bioavailability in the gut. This research combined molecular biology and cloning with automated screening of bacterial strains and experiments in mouse models. Before joining Penn State, I studied gut microbiomes at Universidad de los Andes and worked in research at Cornell University.
-
-I hold an M.Sc. in Computational Biology and bachelor’s degrees in Biology and Microbiology from Universidad de los Andes. Alongside research, I enjoy mentoring students and teaching workshops on microbiome data analysis.
-
-I expect to complete my Ph.D. in summer 2027 and am seeking postdoctoral opportunities in microbial ecology. I am particularly interested in how microorganisms exchange metabolites and genetic material, organize into communities, and evolve together. I hope to combine experimental approaches and computational analysis to understand how these interactions give rise to community functions.
+I expect to complete my Ph.D. in summer 2027 and am seeking postdoctoral opportunities in microbial ecology. I am particularly interested in understanding microbes as interacting communities, exploring how metabolite exchange, horizontal gene transfer, and coevolution shape microbial community structure and function.
 
 To discuss research or postdoctoral opportunities, please [get in touch](mailto:dkb5890@psu.edu).
