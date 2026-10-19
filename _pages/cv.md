@@ -60,11 +60,11 @@ Human gut microbiome profiling and experimental support for neuroscience researc
 
 ## Selected awards and fellowships
 
-- **Interdisciplinary Innovation Fellowship**, One Health Microbiome Center, Penn State \| 2025
-- **Best Poster Award**, Páramos 2025 Symposium, Bogotá, Colombia \| 2025
-- **International Graduate Education Award**, Penn State \| 2024
-- **Future Leaders Mentoring Fellowship**, American Society for Microbiology \| 2023–2025
-- **Summer Undergraduate Research Fellowship**, Universidad de los Andes; research placement at Cornell University \| 2018
+- **Interdisciplinary Innovation Fellowship**, One Health Microbiome Center, Penn State - 2025
+- **Best Poster Award**, Páramos 2025 Symposium, Bogotá, Colombia - 2025
+- **International Graduate Education Award**, Penn State - 2024
+- **Future Leaders Mentoring Fellowship**, American Society for Microbiology - 2023–2025
+- **Summer Undergraduate Research Fellowship**, Universidad de los Andes; research placement at Cornell University - 2018
 
 ## Teaching and mentoring
 
@@ -74,11 +74,11 @@ I have mentored undergraduate researchers at Penn State and Cornell University, 
 
 ## Leadership and service
 
-- Organizing Committee Member, One Health Microbiome Center Symposium, Penn State \| 2025–2026
-- Workshop Chair, Data Analysis Working Group, One Health Microbiome Center, Penn State \| 2024–2026
-- National Microbiome Data Collaborative Champion \| 2025
-- National Microbiome Data Collaborative Ambassador \| 2024
-- First-Year Representative, BMMB Graduate Student Association, Penn State \| 2023
+- Organizing Committee Member, One Health Microbiome Center Symposium, Penn State - 2025–2026
+- Workshop Chair, Data Analysis Working Group, One Health Microbiome Center, Penn State - 2024–2026
+- National Microbiome Data Collaborative Champion - 2025
+- National Microbiome Data Collaborative Ambassador - 2024
+- First-Year Representative, BMMB Graduate Student Association, Penn State - 2023
 
 ## Research skills
 
