@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download my full CV (PDF)](/files/Daniela_Betancurt_Anzola_CV.pdf)
+
 ## Education
 
 **Ph.D. candidate, Biochemistry, Microbiology and Molecular Biology**  
