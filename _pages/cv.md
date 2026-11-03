@@ -86,4 +86,4 @@ I have mentored undergraduate researchers at Penn State and Cornell University, 
 
 **Microbiome and multi-omics:** Genome-resolved metagenomics, amplicon analysis, untargeted metabolomics, statistical modeling, and data visualization.
 
-**Experimental:** Molecular biology, cloning, microbial culture, high-throughput strain screening, Opentrons automation, environmental sampling, and animal models (mice and rats).
+**Experimental:** Molecular biology, cloning, microbial culture, high-throughput strain screening, Opentrons automation, PCR, qPCR, flow cytometry, BONCAT, environmental sampling, and animal models (mice and rats).
